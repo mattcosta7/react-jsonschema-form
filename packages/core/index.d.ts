@@ -14,7 +14,6 @@ declare module '@rjsf/core' {
         additionalMetaSchemas?: ReadonlyArray<object>;
         ArrayFieldTemplate?: React.StatelessComponent<ArrayFieldTemplateProps>;
         autoComplete?: string;
-        autocomplete?: string; // deprecated
         children?: React.ReactNode;
         className?: string;
         customFormats?: { [k: string]: string | RegExp | ((data: string) => boolean) };
