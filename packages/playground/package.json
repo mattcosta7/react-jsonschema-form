@@ -55,7 +55,7 @@
     "less-loader": "^5.0.0",
     "lodash": "^4.17.15",
     "prop-types": "^15.7.2",
-    "react-app-polyfill": "^1.0.4",
+    "react-app-polyfill": "^2.0.0",
     "react-bootstrap": "^0.33.1",
     "react-frame-component": "^4.1.1",
     "react-is": "^16.9.0",
